@@ -8,4 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> 1cfd48a (first commit)
